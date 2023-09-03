@@ -1,0 +1,3 @@
+rootProject.name = 'java-pro-otus'
+include 'hmw1-gradle'
+
